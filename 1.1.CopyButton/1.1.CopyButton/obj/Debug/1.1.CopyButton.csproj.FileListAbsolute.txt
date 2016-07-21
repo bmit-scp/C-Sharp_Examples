@@ -1,0 +1,21 @@
+H:\C sharp\examples\1.1.CopyButton\1.1.CopyButton\bin\Debug\1.1.CopyButton.exe.config
+H:\C sharp\examples\1.1.CopyButton\1.1.CopyButton\bin\Debug\1.1.CopyButton.exe
+H:\C sharp\examples\1.1.CopyButton\1.1.CopyButton\bin\Debug\1.1.CopyButton.pdb
+H:\C sharp\examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.csprojResolveAssemblyReference.cache
+H:\C sharp\examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\_1._1.CopyButton.Form1.resources
+H:\C sharp\examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\_1._1.CopyButton.Properties.Resources.resources
+H:\C sharp\examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.csproj.GenerateResource.Cache
+H:\C sharp\examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.exe
+H:\C sharp\examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.pdb
+H:\1.1.CopyButton\1.1.CopyButton\bin\Debug\1.1.CopyButton.exe.config
+H:\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.exe
+H:\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.pdb
+H:\1.1.CopyButton\1.1.CopyButton\bin\Debug\1.1.CopyButton.exe
+H:\1.1.CopyButton\1.1.CopyButton\bin\Debug\1.1.CopyButton.pdb
+H:\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.csprojResolveAssemblyReference.cache
+H:\1.1.CopyButton\1.1.CopyButton\obj\Debug\_1._1.CopyButton.Form1.resources
+H:\1.1.CopyButton\1.1.CopyButton\obj\Debug\_1._1.CopyButton.Properties.Resources.resources
+H:\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.csproj.GenerateResource.Cache
+H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\bin\Debug\1.1.CopyButton.exe.config
+H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.exe
+H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.pdb
