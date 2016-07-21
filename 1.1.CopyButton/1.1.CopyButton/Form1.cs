@@ -32,5 +32,10 @@ namespace _1._1.CopyButton
             Eingabe = lblPaste.Text;
 
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
