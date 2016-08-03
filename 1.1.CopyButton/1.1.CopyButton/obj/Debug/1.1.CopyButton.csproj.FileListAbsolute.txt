@@ -19,3 +19,9 @@ H:\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.csproj.GenerateResourc
 H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\bin\Debug\1.1.CopyButton.exe.config
 H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.exe
 H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.pdb
+H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\bin\Debug\1.1.CopyButton.exe
+H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\bin\Debug\1.1.CopyButton.pdb
+H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.csprojResolveAssemblyReference.cache
+H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\_1._1.CopyButton.Form1.resources
+H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\_1._1.CopyButton.Properties.Resources.resources
+H:\LocalRepgithub\C-Sharp_Examples\1.1.CopyButton\1.1.CopyButton\obj\Debug\1.1.CopyButton.csproj.GenerateResource.Cache

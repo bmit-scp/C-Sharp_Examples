@@ -30,5 +30,10 @@ namespace _1._2.Timer
         {
             timer1.Start();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
